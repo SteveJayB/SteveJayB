@@ -1,4 +1,4 @@
-## Hello!👋
+## Hi there!👋
 Thank you for visiting my profile. My name is Stephen and I am based out of Denver, CO. 🏔️
 
 I am a tech-driven professional currently working on multiple projects in the fields of eCommerce, Customer Service, and Communications. I have been with my company for five years, gaining managerial-type experience for the last two years by managing a small team. Fun fact, our company was ranked thirty-ninth by Forbes in their 2025 list of America's Best Companies!🏆
