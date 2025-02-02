@@ -9,4 +9,4 @@ I'm looking for help with the files listed within my repositories, especially wi
 
 Ask me about some of the best practices I use while collaborating on eCommerce projects. I will provide as much information as I am able to discuss. Otherwise, ask me about sports, especially football as I grew up playing for 14 years! I  enjoy heading up to the slopes during the Winter months. My favorite mountain is Crested Butte, but I am more of a regular at Copper Mountain and Winter Park. During the warmer months, I enjoy golfing.
 
-Thank you for reading and I look forward to potentially collaborating in the near future!
+Thank you for reading and I look forward to potentially collaborating in the future!
