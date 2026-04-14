@@ -1,12 +1,17 @@
-## Hi there!👋
-Thank you for visiting my profile. My name is Stephen and I am based out of Denver, CO. 🏔️
+## Hi, I'm Stephen - a tech-driven professional based in Denver, CO
+I have a B.S. in Software Engineering with a minor in Business Administration, and six years of professional experience at the intersection of technology, operations, and communications. My work spans full-stack web development, operational reporting, cross-functional project delivery, and digital content systems.
 
-I am a tech-driven professional currently working on multiple projects in the fields of eCommerce, Customer Service, and Communications. I have been with my company for five years, gaining managerial-type experience for the last two years by managing a small team.
+In my current role, I build reporting frameworks, design process automation workflows using Power Automate and Microsoft Forms, and collaborate across Analytics, QA, Legal, and Operations teams to drive data-informed decisions. Outside of work, I design and develop websites for local businesses and entrepreneurs — handling everything from architecture and build to testing, deployment, and ongoing maintenance.
 
-I'm looking to collaborate on interesting projects that help me learn more about topics that may be beneficial to know as we move toward a more tech-driven society each and every day.
+What I work with:
+HTML · CSS · JavaScript · Python · SQL (MySQL, Oracle) · Power Automate · Tableau · Power BI · Google Analytics · Hotjar · Shopify · Microsoft Suite
 
-I'm looking for help with the files listed within my repositories, especially with my past projects from school. I understand a lot of my files may be inefficient, unorganized, or bug infested. Cleaning up those projects and obtaining a better understanding on what may have been incorrect, or on what was holding them back from the endgoal would be very helpful!
+Currently building:
+A standalone personal finance web app using vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-Ask me about some of the best practices I use while collaborating on eCommerce projects. I will provide as much information as I am able to discuss. Otherwise, ask me about sports, especially football as I grew up playing for 14 years! I  enjoy heading up to the slopes during the Winter months. My favorite mountain is Crested Butte, but I am more of a regular at Copper Mountain and Winter Park. During the warmer months, I enjoy golfing.
+Certifications:
+Responsive Web Design — freeCodeCamp (2024)
+JavaScript Algorithms and Data Structures — freeCodeCamp (2025)
+Front-End Development Libraries — freeCodeCamp (in progress)
 
-Thank you for reading and I look forward to potentially collaborating in the future!
+Feel free to explore my repos or reach out via [stephenjbridgett.com](stephenjbridgett.com).
