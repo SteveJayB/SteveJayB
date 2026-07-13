@@ -13,6 +13,6 @@ Certifications:
 Responsive Web Design — freeCodeCamp (2024)
 JavaScript Algorithms and Data Structures — freeCodeCamp (2025)
 Front-End Development Libraries — freeCodeCamp (in progress)
-Microsoft Certified: Power BI Data Analyst Associate (2026)
+Power BI Data Analyst Associate - Microsoft (2026)
 
 Feel free to explore my repos or reach out via [stephenjbridgett.com](stephenjbridgett.com).
