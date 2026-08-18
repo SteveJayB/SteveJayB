@@ -10,9 +10,9 @@ Currently building:
 A standalone personal finance web app using vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
 Certifications:
-Responsive Web Design — freeCodeCamp (2024)
-JavaScript Algorithms and Data Structures — freeCodeCamp (2025)
-Front-End Development Libraries — freeCodeCamp (in progress)
+Responsive Web Design — freeCodeCamp (2024),
+JavaScript Algorithms and Data Structures — freeCodeCamp (2025),
+Front-End Development Libraries — freeCodeCamp (in progress),
 Power BI Data Analyst Associate - Microsoft (2026)
 
 Feel free to explore my repos or reach out via [stephenjbridgett.com](stephenjbridgett.com).
